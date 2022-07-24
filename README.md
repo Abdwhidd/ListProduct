@@ -2,7 +2,7 @@
 
 A simple product list with home and detail features.
 
-[https://media.giphy.com/media/R6yp8LkVVcA5udffYe/giphy.gif](https://media.giphy.com/media/R6yp8LkVVcA5udffYe/giphy.gif)
+![](https://media.giphy.com/media/dYgcnj94xjxsNl2RvE/giphy.gif)
 
 https://user-images.githubusercontent.com/76991016/180634807-cbdd275f-deb5-4dcf-b2ae-32593f27e618.mp4
 
