@@ -2,7 +2,7 @@
 
 A simple product list with home and detail features.
 
-<iframe src="https://giphy.com/embed/R6yp8LkVVcA5udffYe" width="238" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/R6yp8LkVVcA5udffYe">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:202%;position:relative;"><iframe src="https://giphy.com/embed/R6yp8LkVVcA5udffYe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/R6yp8LkVVcA5udffYe">via GIPHY</a></p>
 
 ## Description
 
