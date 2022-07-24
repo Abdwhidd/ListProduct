@@ -8,12 +8,12 @@ A simple product list with home and detail features.
 
 This Product List app is my practice app, in which I consume APIs and create Models, and manage in ViewModel and display them in View.
 
-SwiftUI - language.
-MVVM - Architecture.
-Consume API - JSON
-Core Data - id, quantity
-Package URLImage
-Indicator - Loading
+* SwiftUI - language
+* MVVM - Architecture
+* Consume API - JSON
+* Core Data - id, quantity
+* Package URLImage
+* Indicator - Loading
 
 ## Getting Started
 
