@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "listplaceholder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/malkouz/ListPlaceholder",
+      "state" : {
+        "branch" : "master",
+        "revision" : "34f6675cdb072b9abf4b2c5547a4d2de622a5928"
+      }
+    },
+    {
+      "identity" : "url-image",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dmytro-anokhin/url-image",
+      "state" : {
+        "revision" : "4042f955f1fdff00ced85545e1eecdbf969b5cd0",
+        "version" : "3.1.1"
+      }
+    }
+  ],
+  "version" : 2
+}
