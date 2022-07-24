@@ -1,8 +1,8 @@
 # ListProduct
 
 A simple product list with home and detail features.
-
-https://giphy.com/embed/R6yp8LkVVcA5udffYe
+[
+https://giphy.com/embed/R6yp8LkVVcA5udffYe](https://media.giphy.com/media/R6yp8LkVVcA5udffYe/giphy.gif)
 
 ## Description
 
