@@ -9,7 +9,7 @@ import Foundation
 
 class APIService {
     
-    let BASE_URL : String = "https://recruitment.dev.rollingglory.com/api/"
+    let BASE_URL : String = "MY API URL"
     
     func getProducts(completion : @escaping ((ProductsResponse?) -> Void)) {
         guard let url = URL(string: "\(BASE_URL)v2/gifts?page[number]=1&page[size]=6") else {
